@@ -1,0 +1,443 @@
+Domain Code,Domain,Area Code,Area,Element Code,Element,Item Code,Item,Year Code,Year,Unit,Value,Flag,Flag Description
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2901,Grand Total,2014,2014,kcal/capita/day,2442,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2901,Grand Total,2015,2015,kcal/capita/day,2461,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2901,Grand Total,2016,2016,kcal/capita/day,2496,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2901,Grand Total,2017,2017,kcal/capita/day,2517,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2901,Grand Total,2014,2014,g/capita/day,61.38,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2901,Grand Total,2015,2015,g/capita/day,61.96,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2901,Grand Total,2016,2016,g/capita/day,63.11,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2901,Grand Total,2017,2017,g/capita/day,65.33,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2901,Grand Total,2014,2014,g/capita/day,52.44,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2901,Grand Total,2015,2015,g/capita/day,52.55,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2901,Grand Total,2016,2016,g/capita/day,54.4,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2901,Grand Total,2017,2017,g/capita/day,56.84,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2903,Vegetal Products,2014,2014,kcal/capita/day,2195,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2903,Vegetal Products,2015,2015,kcal/capita/day,2202,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2903,Vegetal Products,2016,2016,kcal/capita/day,2227,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2903,Vegetal Products,2017,2017,kcal/capita/day,2237,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2903,Vegetal Products,2014,2014,g/capita/day,48.5,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2903,Vegetal Products,2015,2015,g/capita/day,48.44,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2903,Vegetal Products,2016,2016,g/capita/day,49.01,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2903,Vegetal Products,2017,2017,g/capita/day,50.62,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2903,Vegetal Products,2014,2014,g/capita/day,36.09,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2903,Vegetal Products,2015,2015,g/capita/day,35.5,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2903,Vegetal Products,2016,2016,g/capita/day,36.83,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2903,Vegetal Products,2017,2017,g/capita/day,38.59,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2941,Animal Products,2014,2014,kcal/capita/day,247,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2941,Animal Products,2015,2015,kcal/capita/day,259,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2941,Animal Products,2016,2016,kcal/capita/day,269,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2941,Animal Products,2017,2017,kcal/capita/day,280,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2941,Animal Products,2014,2014,g/capita/day,12.88,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2941,Animal Products,2015,2015,g/capita/day,13.52,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2941,Animal Products,2016,2016,g/capita/day,14.09,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2941,Animal Products,2017,2017,g/capita/day,14.71,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2941,Animal Products,2014,2014,g/capita/day,16.35,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2941,Animal Products,2015,2015,g/capita/day,17.04,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2941,Animal Products,2016,2016,g/capita/day,17.57,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2941,Animal Products,2017,2017,g/capita/day,18.25,Fc,Calculated data
+FBS,New Food Balances,100,India,5142,Food,2905,Cereals - Excluding Beer,2014,2014,1000 tonnes,230948,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,5142,Food,2905,Cereals - Excluding Beer,2015,2015,1000 tonnes,231740,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,5142,Food,2905,Cereals - Excluding Beer,2016,2016,1000 tonnes,241972,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,5142,Food,2905,Cereals - Excluding Beer,2017,2017,1000 tonnes,247068,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2905,Cereals - Excluding Beer,2014,2014,kg,178.26,Fc,Calculated data
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2905,Cereals - Excluding Beer,2015,2015,kg,176.88,Fc,Calculated data
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2905,Cereals - Excluding Beer,2016,2016,kg,182.69,Fc,Calculated data
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2905,Cereals - Excluding Beer,2017,2017,kg,184.56,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2905,Cereals - Excluding Beer,2014,2014,kcal/capita/day,1364,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2905,Cereals - Excluding Beer,2015,2015,kcal/capita/day,1368,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2905,Cereals - Excluding Beer,2016,2016,kcal/capita/day,1388,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2905,Cereals - Excluding Beer,2017,2017,kcal/capita/day,1392,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2905,Cereals - Excluding Beer,2014,2014,g/capita/day,32.37,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2905,Cereals - Excluding Beer,2015,2015,g/capita/day,32.41,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2905,Cereals - Excluding Beer,2016,2016,g/capita/day,32.82,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2905,Cereals - Excluding Beer,2017,2017,g/capita/day,33.03,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2905,Cereals - Excluding Beer,2014,2014,g/capita/day,5.72,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2905,Cereals - Excluding Beer,2015,2015,g/capita/day,5.73,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2905,Cereals - Excluding Beer,2016,2016,g/capita/day,5.77,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2905,Cereals - Excluding Beer,2017,2017,g/capita/day,5.82,Fc,Calculated data
+FBS,New Food Balances,100,India,5142,Food,2907,Starchy Roots,2014,2014,1000 tonnes,39984,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,5142,Food,2907,Starchy Roots,2015,2015,1000 tonnes,37581,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,5142,Food,2907,Starchy Roots,2016,2016,1000 tonnes,37229,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,5142,Food,2907,Starchy Roots,2017,2017,1000 tonnes,39662,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2907,Starchy Roots,2014,2014,kg,30.86,Fc,Calculated data
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2907,Starchy Roots,2015,2015,kg,28.68,Fc,Calculated data
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2907,Starchy Roots,2016,2016,kg,28.11,Fc,Calculated data
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2907,Starchy Roots,2017,2017,kg,29.63,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2907,Starchy Roots,2014,2014,kcal/capita/day,60,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2907,Starchy Roots,2015,2015,kcal/capita/day,55,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2907,Starchy Roots,2016,2016,kcal/capita/day,54,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2907,Starchy Roots,2017,2017,kcal/capita/day,56,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2907,Starchy Roots,2014,2014,g/capita/day,1.14,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2907,Starchy Roots,2015,2015,g/capita/day,1.13,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2907,Starchy Roots,2016,2016,g/capita/day,1.11,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2907,Starchy Roots,2017,2017,g/capita/day,1.17,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2907,Starchy Roots,2014,2014,g/capita/day,0.09,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2907,Starchy Roots,2015,2015,g/capita/day,0.09,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2907,Starchy Roots,2016,2016,g/capita/day,0.08,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2907,Starchy Roots,2017,2017,g/capita/day,0.09,Fc,Calculated data
+FBS,New Food Balances,100,India,5142,Food,2908,Sugar Crops,2014,2014,1000 tonnes,0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,5142,Food,2908,Sugar Crops,2015,2015,1000 tonnes,0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,5142,Food,2908,Sugar Crops,2016,2016,1000 tonnes,0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2908,Sugar Crops,2014,2014,kg,0,Fc,Calculated data
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2908,Sugar Crops,2015,2015,kg,0,Fc,Calculated data
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2908,Sugar Crops,2016,2016,kg,0,Fc,Calculated data
+FBS,New Food Balances,100,India,5142,Food,2909,Sugar & Sweeteners,2014,2014,1000 tonnes,27472,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,5142,Food,2909,Sugar & Sweeteners,2015,2015,1000 tonnes,29637,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,5142,Food,2909,Sugar & Sweeteners,2016,2016,1000 tonnes,29211,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,5142,Food,2909,Sugar & Sweeteners,2017,2017,1000 tonnes,24835,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2909,Sugar & Sweeteners,2014,2014,kg,21.2,Fc,Calculated data
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2909,Sugar & Sweeteners,2015,2015,kg,22.62,Fc,Calculated data
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2909,Sugar & Sweeteners,2016,2016,kg,22.05,Fc,Calculated data
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2909,Sugar & Sweeteners,2017,2017,kg,18.55,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2909,Sugar & Sweeteners,2014,2014,kcal/capita/day,205,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2909,Sugar & Sweeteners,2015,2015,kcal/capita/day,219,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2909,Sugar & Sweeteners,2016,2016,kcal/capita/day,213,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2909,Sugar & Sweeteners,2017,2017,kcal/capita/day,180,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2909,Sugar & Sweeteners,2014,2014,g/capita/day,0.06,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2909,Sugar & Sweeteners,2015,2015,g/capita/day,0.06,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2909,Sugar & Sweeteners,2016,2016,g/capita/day,0.06,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2909,Sugar & Sweeteners,2017,2017,g/capita/day,0.06,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2909,Sugar & Sweeteners,2014,2014,g/capita/day,0,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2909,Sugar & Sweeteners,2015,2015,g/capita/day,0,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2909,Sugar & Sweeteners,2016,2016,g/capita/day,0,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2909,Sugar & Sweeteners,2017,2017,g/capita/day,0,Fc,Calculated data
+FBS,New Food Balances,100,India,5142,Food,2911,Pulses,2014,2014,1000 tonnes,19605,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,5142,Food,2911,Pulses,2015,2015,1000 tonnes,20010,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,5142,Food,2911,Pulses,2016,2016,1000 tonnes,19901,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,5142,Food,2911,Pulses,2017,2017,1000 tonnes,22331,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2911,Pulses,2014,2014,kg,15.13,Fc,Calculated data
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2911,Pulses,2015,2015,kg,15.27,Fc,Calculated data
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2911,Pulses,2016,2016,kg,15.02,Fc,Calculated data
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2911,Pulses,2017,2017,kg,16.68,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2911,Pulses,2014,2014,kcal/capita/day,144,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2911,Pulses,2015,2015,kcal/capita/day,145,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2911,Pulses,2016,2016,kcal/capita/day,142,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2911,Pulses,2017,2017,kcal/capita/day,158,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2911,Pulses,2014,2014,g/capita/day,8.49,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2911,Pulses,2015,2015,g/capita/day,8.6,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2911,Pulses,2016,2016,g/capita/day,8.49,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2911,Pulses,2017,2017,g/capita/day,9.42,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2911,Pulses,2014,2014,g/capita/day,1.23,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2911,Pulses,2015,2015,g/capita/day,1.2,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2911,Pulses,2016,2016,g/capita/day,1.13,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2911,Pulses,2017,2017,g/capita/day,1.26,Fc,Calculated data
+FBS,New Food Balances,100,India,5142,Food,2912,Treenuts,2014,2014,1000 tonnes,2052,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,5142,Food,2912,Treenuts,2015,2015,1000 tonnes,2274,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,5142,Food,2912,Treenuts,2016,2016,1000 tonnes,1960,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,5142,Food,2912,Treenuts,2017,2017,1000 tonnes,2170,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2912,Treenuts,2014,2014,kg,1.58,Fc,Calculated data
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2912,Treenuts,2015,2015,kg,1.74,Fc,Calculated data
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2912,Treenuts,2016,2016,kg,1.48,Fc,Calculated data
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2912,Treenuts,2017,2017,kg,1.62,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2912,Treenuts,2014,2014,kcal/capita/day,9,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2912,Treenuts,2015,2015,kcal/capita/day,10,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2912,Treenuts,2016,2016,kcal/capita/day,9,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2912,Treenuts,2017,2017,kcal/capita/day,10,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2912,Treenuts,2014,2014,g/capita/day,0.23,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2912,Treenuts,2015,2015,g/capita/day,0.25,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2912,Treenuts,2016,2016,g/capita/day,0.22,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2912,Treenuts,2017,2017,g/capita/day,0.24,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2912,Treenuts,2014,2014,g/capita/day,0.55,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2912,Treenuts,2015,2015,g/capita/day,0.58,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2912,Treenuts,2016,2016,g/capita/day,0.5,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2912,Treenuts,2017,2017,g/capita/day,0.57,Fc,Calculated data
+FBS,New Food Balances,100,India,5142,Food,2913,Oilcrops,2014,2014,1000 tonnes,9697,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,5142,Food,2913,Oilcrops,2015,2015,1000 tonnes,9529,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,5142,Food,2913,Oilcrops,2016,2016,1000 tonnes,9830,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,5142,Food,2913,Oilcrops,2017,2017,1000 tonnes,10350,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2913,Oilcrops,2014,2014,kg,7.48,Fc,Calculated data
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2913,Oilcrops,2015,2015,kg,7.27,Fc,Calculated data
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2913,Oilcrops,2016,2016,kg,7.42,Fc,Calculated data
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2913,Oilcrops,2017,2017,kg,7.73,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2913,Oilcrops,2014,2014,kcal/capita/day,45,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2913,Oilcrops,2015,2015,kcal/capita/day,42,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2913,Oilcrops,2016,2016,kcal/capita/day,46,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2913,Oilcrops,2017,2017,kcal/capita/day,49,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2913,Oilcrops,2014,2014,g/capita/day,1.26,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2913,Oilcrops,2015,2015,g/capita/day,1.2,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2913,Oilcrops,2016,2016,g/capita/day,1.38,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2913,Oilcrops,2017,2017,g/capita/day,1.46,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2913,Oilcrops,2014,2014,g/capita/day,3.93,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2913,Oilcrops,2015,2015,g/capita/day,3.64,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2913,Oilcrops,2016,2016,g/capita/day,4.03,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2913,Oilcrops,2017,2017,g/capita/day,4.25,Fc,Calculated data
+FBS,New Food Balances,100,India,5142,Food,2914,Vegetable Oils,2014,2014,1000 tonnes,9887,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,5142,Food,2914,Vegetable Oils,2015,2015,1000 tonnes,9883,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,5142,Food,2914,Vegetable Oils,2016,2016,1000 tonnes,10085,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,5142,Food,2914,Vegetable Oils,2017,2017,1000 tonnes,10645,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2914,Vegetable Oils,2014,2014,kg,7.63,Fc,Calculated data
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2914,Vegetable Oils,2015,2015,kg,7.54,Fc,Calculated data
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2914,Vegetable Oils,2016,2016,kg,7.61,Fc,Calculated data
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2914,Vegetable Oils,2017,2017,kg,7.95,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2914,Vegetable Oils,2014,2014,kcal/capita/day,203,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2914,Vegetable Oils,2015,2015,kcal/capita/day,200,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2914,Vegetable Oils,2016,2016,kcal/capita/day,209,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2914,Vegetable Oils,2017,2017,kcal/capita/day,219,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2914,Vegetable Oils,2014,2014,g/capita/day,0,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2914,Vegetable Oils,2015,2015,g/capita/day,0,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2914,Vegetable Oils,2016,2016,g/capita/day,0,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2914,Vegetable Oils,2017,2017,g/capita/day,0,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2914,Vegetable Oils,2014,2014,g/capita/day,22.96,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2914,Vegetable Oils,2015,2015,g/capita/day,22.67,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2914,Vegetable Oils,2016,2016,g/capita/day,23.64,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2914,Vegetable Oils,2017,2017,g/capita/day,24.76,Fc,Calculated data
+FBS,New Food Balances,100,India,5142,Food,2918,Vegetables,2014,2014,1000 tonnes,104475,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,5142,Food,2918,Vegetables,2015,2015,1000 tonnes,98880,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,5142,Food,2918,Vegetables,2016,2016,1000 tonnes,101799,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,5142,Food,2918,Vegetables,2017,2017,1000 tonnes,106904,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2918,Vegetables,2014,2014,kg,80.64,Fc,Calculated data
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2918,Vegetables,2015,2015,kg,75.47,Fc,Calculated data
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2918,Vegetables,2016,2016,kg,76.86,Fc,Calculated data
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2918,Vegetables,2017,2017,kg,79.86,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2918,Vegetables,2014,2014,kcal/capita/day,56,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2918,Vegetables,2015,2015,kcal/capita/day,54,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2918,Vegetables,2016,2016,kcal/capita/day,55,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2918,Vegetables,2017,2017,kcal/capita/day,57,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2918,Vegetables,2014,2014,g/capita/day,3.04,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2918,Vegetables,2015,2015,g/capita/day,2.9,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2918,Vegetables,2016,2016,g/capita/day,2.94,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2918,Vegetables,2017,2017,g/capita/day,3.05,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2918,Vegetables,2014,2014,g/capita/day,0.45,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2918,Vegetables,2015,2015,g/capita/day,0.42,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2918,Vegetables,2016,2016,g/capita/day,0.43,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2918,Vegetables,2017,2017,g/capita/day,0.45,Fc,Calculated data
+FBS,New Food Balances,100,India,5142,Food,2919,Fruits - Excluding Wine,2014,2014,1000 tonnes,75178,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,5142,Food,2919,Fruits - Excluding Wine,2015,2015,1000 tonnes,74293,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,5142,Food,2919,Fruits - Excluding Wine,2016,2016,1000 tonnes,75184,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,5142,Food,2919,Fruits - Excluding Wine,2017,2017,1000 tonnes,77230,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2919,Fruits - Excluding Wine,2014,2014,kg,58.03,Fc,Calculated data
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2919,Fruits - Excluding Wine,2015,2015,kg,56.71,Fc,Calculated data
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2919,Fruits - Excluding Wine,2016,2016,kg,56.76,Fc,Calculated data
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2919,Fruits - Excluding Wine,2017,2017,kg,57.69,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2919,Fruits - Excluding Wine,2014,2014,kcal/capita/day,73,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2919,Fruits - Excluding Wine,2015,2015,kcal/capita/day,71,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2919,Fruits - Excluding Wine,2016,2016,kcal/capita/day,71,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2919,Fruits - Excluding Wine,2017,2017,kcal/capita/day,72,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2919,Fruits - Excluding Wine,2014,2014,g/capita/day,0.88,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2919,Fruits - Excluding Wine,2015,2015,g/capita/day,0.86,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2919,Fruits - Excluding Wine,2016,2016,g/capita/day,0.86,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2919,Fruits - Excluding Wine,2017,2017,g/capita/day,0.87,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2919,Fruits - Excluding Wine,2014,2014,g/capita/day,0.48,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2919,Fruits - Excluding Wine,2015,2015,g/capita/day,0.47,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2919,Fruits - Excluding Wine,2016,2016,g/capita/day,0.46,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2919,Fruits - Excluding Wine,2017,2017,g/capita/day,0.46,Fc,Calculated data
+FBS,New Food Balances,100,India,5142,Food,2922,Stimulants,2014,2014,1000 tonnes,1016,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,5142,Food,2922,Stimulants,2015,2015,1000 tonnes,1026,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,5142,Food,2922,Stimulants,2016,2016,1000 tonnes,1029,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,5142,Food,2922,Stimulants,2017,2017,1000 tonnes,1073,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2922,Stimulants,2014,2014,kg,0.78,Fc,Calculated data
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2922,Stimulants,2015,2015,kg,0.78,Fc,Calculated data
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2922,Stimulants,2016,2016,kg,0.78,Fc,Calculated data
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2922,Stimulants,2017,2017,kg,0.8,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2922,Stimulants,2014,2014,kcal/capita/day,1,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2922,Stimulants,2015,2015,kcal/capita/day,1,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2922,Stimulants,2016,2016,kcal/capita/day,1,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2922,Stimulants,2017,2017,kcal/capita/day,1,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2922,Stimulants,2014,2014,g/capita/day,0.23,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2922,Stimulants,2015,2015,g/capita/day,0.22,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2922,Stimulants,2016,2016,g/capita/day,0.22,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2922,Stimulants,2017,2017,g/capita/day,0.23,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2922,Stimulants,2014,2014,g/capita/day,0.02,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2922,Stimulants,2015,2015,g/capita/day,0.01,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2922,Stimulants,2016,2016,g/capita/day,0.02,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2922,Stimulants,2017,2017,g/capita/day,0.02,Fc,Calculated data
+FBS,New Food Balances,100,India,5142,Food,2923,Spices,2014,2014,1000 tonnes,3318,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,5142,Food,2923,Spices,2015,2015,1000 tonnes,3336,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,5142,Food,2923,Spices,2016,2016,1000 tonnes,3921,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,5142,Food,2923,Spices,2017,2017,1000 tonnes,4651,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2923,Spices,2014,2014,kg,2.56,Fc,Calculated data
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2923,Spices,2015,2015,kg,2.55,Fc,Calculated data
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2923,Spices,2016,2016,kg,2.96,Fc,Calculated data
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2923,Spices,2017,2017,kg,3.47,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2923,Spices,2014,2014,kcal/capita/day,22,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2923,Spices,2015,2015,kcal/capita/day,22,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2923,Spices,2016,2016,kcal/capita/day,25,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2923,Spices,2017,2017,kcal/capita/day,30,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2923,Spices,2014,2014,g/capita/day,0.8,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2923,Spices,2015,2015,g/capita/day,0.79,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2923,Spices,2016,2016,g/capita/day,0.91,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2923,Spices,2017,2017,g/capita/day,1.07,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2923,Spices,2014,2014,g/capita/day,0.67,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2923,Spices,2015,2015,g/capita/day,0.69,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2923,Spices,2016,2016,g/capita/day,0.77,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2923,Spices,2017,2017,g/capita/day,0.91,Fc,Calculated data
+FBS,New Food Balances,100,India,5142,Food,2924,Alcoholic Beverages,2014,2014,1000 tonnes,2474,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,5142,Food,2924,Alcoholic Beverages,2015,2015,1000 tonnes,2855,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,5142,Food,2924,Alcoholic Beverages,2016,2016,1000 tonnes,2793,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,5142,Food,2924,Alcoholic Beverages,2017,2017,1000 tonnes,2789,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2924,Alcoholic Beverages,2014,2014,kg,1.91,Fc,Calculated data
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2924,Alcoholic Beverages,2015,2015,kg,2.18,Fc,Calculated data
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2924,Alcoholic Beverages,2016,2016,kg,2.11,Fc,Calculated data
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2924,Alcoholic Beverages,2017,2017,kg,2.08,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2924,Alcoholic Beverages,2014,2014,kcal/capita/day,14,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2924,Alcoholic Beverages,2015,2015,kcal/capita/day,15,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2924,Alcoholic Beverages,2016,2016,kcal/capita/day,14,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2924,Alcoholic Beverages,2017,2017,kcal/capita/day,13,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2924,Alcoholic Beverages,2014,2014,g/capita/day,0,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2924,Alcoholic Beverages,2015,2015,g/capita/day,0.01,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2924,Alcoholic Beverages,2016,2016,g/capita/day,0.01,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2924,Alcoholic Beverages,2017,2017,g/capita/day,0.01,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2924,Alcoholic Beverages,2014,2014,g/capita/day,0,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2924,Alcoholic Beverages,2015,2015,g/capita/day,0,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2924,Alcoholic Beverages,2016,2016,g/capita/day,0,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2924,Alcoholic Beverages,2017,2017,g/capita/day,0,Fc,Calculated data
+FBS,New Food Balances,100,India,5142,Food,2943,Meat,2014,2014,1000 tonnes,4537,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,5142,Food,2943,Meat,2015,2015,1000 tonnes,4806,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,5142,Food,2943,Meat,2016,2016,1000 tonnes,4990,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,5142,Food,2943,Meat,2017,2017,1000 tonnes,5060,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2943,Meat,2014,2014,kg,3.5,Fc,Calculated data
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2943,Meat,2015,2015,kg,3.67,Fc,Calculated data
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2943,Meat,2016,2016,kg,3.77,Fc,Calculated data
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2943,Meat,2017,2017,kg,3.78,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2943,Meat,2014,2014,kcal/capita/day,14,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2943,Meat,2015,2015,kcal/capita/day,15,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2943,Meat,2016,2016,kcal/capita/day,15,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2943,Meat,2017,2017,kcal/capita/day,15,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2943,Meat,2014,2014,g/capita/day,1.24,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2943,Meat,2015,2015,g/capita/day,1.29,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2943,Meat,2016,2016,g/capita/day,1.32,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2943,Meat,2017,2017,g/capita/day,1.33,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2943,Meat,2014,2014,g/capita/day,0.98,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2943,Meat,2015,2015,g/capita/day,1,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2943,Meat,2016,2016,g/capita/day,1.02,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2943,Meat,2017,2017,g/capita/day,1.03,Fc,Calculated data
+FBS,New Food Balances,100,India,5142,Food,2945,Offals,2014,2014,1000 tonnes,406,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,5142,Food,2945,Offals,2015,2015,1000 tonnes,401,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,5142,Food,2945,Offals,2016,2016,1000 tonnes,395,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,5142,Food,2945,Offals,2017,2017,1000 tonnes,439,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2945,Offals,2014,2014,kg,0.31,Fc,Calculated data
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2945,Offals,2015,2015,kg,0.31,Fc,Calculated data
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2945,Offals,2016,2016,kg,0.3,Fc,Calculated data
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2945,Offals,2017,2017,kg,0.33,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2945,Offals,2014,2014,kcal/capita/day,1,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2945,Offals,2015,2015,kcal/capita/day,1,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2945,Offals,2016,2016,kcal/capita/day,1,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2945,Offals,2017,2017,kcal/capita/day,1,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2945,Offals,2014,2014,g/capita/day,0.15,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2945,Offals,2015,2015,g/capita/day,0.15,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2945,Offals,2016,2016,g/capita/day,0.14,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2945,Offals,2017,2017,g/capita/day,0.16,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2945,Offals,2014,2014,g/capita/day,0.03,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2945,Offals,2015,2015,g/capita/day,0.03,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2945,Offals,2016,2016,g/capita/day,0.03,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2945,Offals,2017,2017,g/capita/day,0.03,Fc,Calculated data
+FBS,New Food Balances,100,India,5142,Food,2946,Animal fats,2014,2014,1000 tonnes,43,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,5142,Food,2946,Animal fats,2015,2015,1000 tonnes,42,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,5142,Food,2946,Animal fats,2016,2016,1000 tonnes,41,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,5142,Food,2946,Animal fats,2017,2017,1000 tonnes,42,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2946,Animal fats,2014,2014,kg,0.03,Fc,Calculated data
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2946,Animal fats,2015,2015,kg,0.03,Fc,Calculated data
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2946,Animal fats,2016,2016,kg,0.03,Fc,Calculated data
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2946,Animal fats,2017,2017,kg,0.03,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2946,Animal fats,2014,2014,kcal/capita/day,70,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2946,Animal fats,2015,2015,kcal/capita/day,72,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2946,Animal fats,2016,2016,kcal/capita/day,73,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2946,Animal fats,2017,2017,kcal/capita/day,75,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2946,Animal fats,2014,2014,g/capita/day,0.04,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2946,Animal fats,2015,2015,g/capita/day,0.04,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2946,Animal fats,2016,2016,g/capita/day,0.04,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2946,Animal fats,2017,2017,g/capita/day,0.04,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2946,Animal fats,2014,2014,g/capita/day,7.93,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2946,Animal fats,2015,2015,g/capita/day,8.13,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2946,Animal fats,2016,2016,g/capita/day,8.29,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2946,Animal fats,2017,2017,g/capita/day,8.51,Fc,Calculated data
+FBS,New Food Balances,100,India,5142,Food,2949,Eggs,2014,2014,1000 tonnes,3627,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,5142,Food,2949,Eggs,2015,2015,1000 tonnes,3818,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,5142,Food,2949,Eggs,2016,2016,1000 tonnes,4077,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,5142,Food,2949,Eggs,2017,2017,1000 tonnes,4349,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2949,Eggs,2014,2014,kg,2.8,Fc,Calculated data
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2949,Eggs,2015,2015,kg,2.91,Fc,Calculated data
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2949,Eggs,2016,2016,kg,3.08,Fc,Calculated data
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2949,Eggs,2017,2017,kg,3.25,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2949,Eggs,2014,2014,kcal/capita/day,11,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2949,Eggs,2015,2015,kcal/capita/day,11,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2949,Eggs,2016,2016,kcal/capita/day,12,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2949,Eggs,2017,2017,kcal/capita/day,12,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2949,Eggs,2014,2014,g/capita/day,0.82,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2949,Eggs,2015,2015,g/capita/day,0.85,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2949,Eggs,2016,2016,g/capita/day,0.9,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2949,Eggs,2017,2017,g/capita/day,0.95,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2949,Eggs,2014,2014,g/capita/day,0.75,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2949,Eggs,2015,2015,g/capita/day,0.78,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2949,Eggs,2016,2016,g/capita/day,0.82,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2949,Eggs,2017,2017,g/capita/day,0.87,Fc,Calculated data
+FBS,New Food Balances,100,India,5142,Food,2948,Milk - Excluding Butter,2014,2014,1000 tonnes,117289,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,5142,Food,2948,Milk - Excluding Butter,2015,2015,1000 tonnes,126191,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,5142,Food,2948,Milk - Excluding Butter,2016,2016,1000 tonnes,133974,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,5142,Food,2948,Milk - Excluding Butter,2017,2017,1000 tonnes,141981,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2948,Milk - Excluding Butter,2014,2014,kg,90.53,Fc,Calculated data
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2948,Milk - Excluding Butter,2015,2015,kg,96.32,Fc,Calculated data
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2948,Milk - Excluding Butter,2016,2016,kg,101.15,Fc,Calculated data
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2948,Milk - Excluding Butter,2017,2017,kg,106.06,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2948,Milk - Excluding Butter,2014,2014,kcal/capita/day,140,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2948,Milk - Excluding Butter,2015,2015,kcal/capita/day,149,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2948,Milk - Excluding Butter,2016,2016,kcal/capita/day,156,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2948,Milk - Excluding Butter,2017,2017,kcal/capita/day,164,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2948,Milk - Excluding Butter,2014,2014,g/capita/day,8.79,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2948,Milk - Excluding Butter,2015,2015,g/capita/day,9.3,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2948,Milk - Excluding Butter,2016,2016,g/capita/day,9.76,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2948,Milk - Excluding Butter,2017,2017,g/capita/day,10.21,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2948,Milk - Excluding Butter,2014,2014,g/capita/day,6.26,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2948,Milk - Excluding Butter,2015,2015,g/capita/day,6.7,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2948,Milk - Excluding Butter,2016,2016,g/capita/day,7,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2948,Milk - Excluding Butter,2017,2017,g/capita/day,7.38,Fc,Calculated data
+FBS,New Food Balances,100,India,5142,Food,2960,"Fish, Seafood",2014,2014,1000 tonnes,8033,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,5142,Food,2960,"Fish, Seafood",2015,2015,1000 tonnes,8406,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,5142,Food,2960,"Fish, Seafood",2016,2016,1000 tonnes,8723,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,5142,Food,2960,"Fish, Seafood",2017,2017,1000 tonnes,9240,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2960,"Fish, Seafood",2014,2014,kg,6.2,Fc,Calculated data
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2960,"Fish, Seafood",2015,2015,kg,6.42,Fc,Calculated data
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2960,"Fish, Seafood",2016,2016,kg,6.59,Fc,Calculated data
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2960,"Fish, Seafood",2017,2017,kg,6.9,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2960,"Fish, Seafood",2014,2014,kcal/capita/day,11,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2960,"Fish, Seafood",2015,2015,kcal/capita/day,12,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2960,"Fish, Seafood",2016,2016,kcal/capita/day,12,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2960,"Fish, Seafood",2017,2017,kcal/capita/day,13,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2960,"Fish, Seafood",2014,2014,g/capita/day,1.84,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2960,"Fish, Seafood",2015,2015,g/capita/day,1.9,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2960,"Fish, Seafood",2016,2016,g/capita/day,1.93,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2960,"Fish, Seafood",2017,2017,g/capita/day,2.03,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2960,"Fish, Seafood",2014,2014,g/capita/day,0.4,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2960,"Fish, Seafood",2015,2015,g/capita/day,0.4,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2960,"Fish, Seafood",2016,2016,g/capita/day,0.41,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2960,"Fish, Seafood",2017,2017,g/capita/day,0.43,Fc,Calculated data
+FBS,New Food Balances,100,India,5142,Food,2961,"Aquatic Products, Other",2014,2014,1000 tonnes,0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,5142,Food,2961,"Aquatic Products, Other",2015,2015,1000 tonnes,0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,5142,Food,2961,"Aquatic Products, Other",2016,2016,1000 tonnes,0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,5142,Food,2961,"Aquatic Products, Other",2017,2017,1000 tonnes,0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2961,"Aquatic Products, Other",2014,2014,kg,0,Fc,Calculated data
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2961,"Aquatic Products, Other",2015,2015,kg,0,Fc,Calculated data
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2961,"Aquatic Products, Other",2016,2016,kg,0,Fc,Calculated data
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2961,"Aquatic Products, Other",2017,2017,kg,0,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2961,"Aquatic Products, Other",2014,2014,kcal/capita/day,0,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2961,"Aquatic Products, Other",2015,2015,kcal/capita/day,0,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2961,"Aquatic Products, Other",2016,2016,kcal/capita/day,0,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2961,"Aquatic Products, Other",2017,2017,kcal/capita/day,0,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2961,"Aquatic Products, Other",2014,2014,g/capita/day,0,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2961,"Aquatic Products, Other",2015,2015,g/capita/day,0,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2961,"Aquatic Products, Other",2016,2016,g/capita/day,0,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2961,"Aquatic Products, Other",2017,2017,g/capita/day,0,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2961,"Aquatic Products, Other",2014,2014,g/capita/day,0,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2961,"Aquatic Products, Other",2015,2015,g/capita/day,0,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2961,"Aquatic Products, Other",2016,2016,g/capita/day,0,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2961,"Aquatic Products, Other",2017,2017,g/capita/day,0,Fc,Calculated data
+FBS,New Food Balances,100,India,5142,Food,2928,Miscellaneous,2014,2014,1000 tonnes,0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,5142,Food,2928,Miscellaneous,2015,2015,1000 tonnes,0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,5142,Food,2928,Miscellaneous,2016,2016,1000 tonnes,0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,5142,Food,2928,Miscellaneous,2017,2017,1000 tonnes,0,A,"Aggregate, may include official, semi-official, estimated or calculated data"
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2928,Miscellaneous,2014,2014,kg,0,Fc,Calculated data
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2928,Miscellaneous,2015,2015,kg,0,Fc,Calculated data
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2928,Miscellaneous,2016,2016,kg,0,Fc,Calculated data
+FBS,New Food Balances,100,India,645,Food supply quantity (kg/capita/yr),2928,Miscellaneous,2017,2017,kg,0,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2928,Miscellaneous,2014,2014,kcal/capita/day,0,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2928,Miscellaneous,2015,2015,kcal/capita/day,0,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2928,Miscellaneous,2016,2016,kcal/capita/day,0,Fc,Calculated data
+FBS,New Food Balances,100,India,664,Food supply (kcal/capita/day),2928,Miscellaneous,2017,2017,kcal/capita/day,0,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2928,Miscellaneous,2014,2014,g/capita/day,0,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2928,Miscellaneous,2015,2015,g/capita/day,0,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2928,Miscellaneous,2016,2016,g/capita/day,0,Fc,Calculated data
+FBS,New Food Balances,100,India,674,Protein supply quantity (g/capita/day),2928,Miscellaneous,2017,2017,g/capita/day,0,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2928,Miscellaneous,2014,2014,g/capita/day,0,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2928,Miscellaneous,2015,2015,g/capita/day,0,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2928,Miscellaneous,2016,2016,g/capita/day,0,Fc,Calculated data
+FBS,New Food Balances,100,India,684,Fat supply quantity (g/capita/day),2928,Miscellaneous,2017,2017,g/capita/day,0,Fc,Calculated data
